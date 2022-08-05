@@ -1,6 +1,6 @@
 var rect = require('./rectangle');
 
-// Editted
+// Editted code to push
 function solveRect(l,b) {
     console.log("Solving for rectangle with l = "
                 + l + " and b = " + b);
@@ -15,7 +15,7 @@ function solveRect(l,b) {
                 + l + " and b = " + b + " is " + rectangle.perimeter());
         }
     });
-    console.log("This statement after the call to rect() yeah");
+    console.log("This statement after the call to rect()");
 };
 
 solveRect(2,4);
