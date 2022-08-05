@@ -1,6 +1,6 @@
 var rect = require('./rectangle');
 
-// Editted code to push
+// Editted code to push now
 function solveRect(l,b) {
     console.log("Solving for rectangle with l = "
                 + l + " and b = " + b);
